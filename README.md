@@ -1,2 +1,2 @@
 # Data-Science
-My notes and files pertaining to data analysis and visualization
+My notes pertaining to python programming, data analysis and visualization.
